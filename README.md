@@ -1,2 +1,3 @@
 # Profile-Athena-generator
-Generate profile athena (FORTNITE)
+
+Generate profile athena for fortnite private server
